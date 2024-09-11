@@ -1,9 +1,9 @@
-import Image from "next/image";
+
 
 export default function Home() {
   return (
     <main>
-      <header className="bg-white">
+      {/* <header className="bg-white">
       <ul className="flex">
           <li className="flex-1 mr-2">
             <a className="text-center block border border-blue-500 rounded py-2 px-4 bg-blue-500 hover:bg-blue-700 text-white" href="#">Notas</a>
@@ -14,7 +14,8 @@ export default function Home() {
   </ul>
       </header>
       <h1>hola</h1>
-      <footer className="bg-blue-300">footer</footer>
+      <footer className="bg-blue-300">footer</footer> */}
+
     </main>
   );
 }
