@@ -22,8 +22,9 @@ export default function Home() {
 
 
           <section id="luna" className="text-center order-1 p-4 grid grid-flow-col grid-cols-2">
-            <h1>Luna</h1>
+            <h1 className="col-start-2">Luna</h1>
             <p>Este es un texto de presentacion de luna</p>
+            <img className="rounded-lg" src="/img/luna.jpg" ></img>
           </section>
           <section id="nacho" className="text-center order-4 p-4">
             Nacho
