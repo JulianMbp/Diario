@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <main className=" bg-[#F5EEE3] h-full w-full divide-slate-300 divide-y">
       <h1 className=" text-5xl font-bold text-center pb-5 pt-5">
-        Familia Bastidas Delgado
+        Familia Delgado Bastidas
       </h1>
       <header className=" ">
         <nav className="px-4 py-4 sm:flex sm:items-center sm:justify-between">
@@ -18,13 +18,13 @@ export default function Home() {
           </div>
         </nav>
       </header>
-      <section className="divide-y divide-slate-300 flex flex-col">
+      <section className="divide-y divide-slate-300 flex flex-col sm:flex sm:justify-between">
 
 
-          <section id="luna" className="text-center order-1 p-4 grid grid-flow-col grid-cols-2">
-            <h1 className="col-start-2">Luna</h1>
+          <section id="luna" className="text-center order-1 p-4 grid grid-flow-col grid-cols-2 ">
+            <h1 className="">Luna</h1>
             <p>Este es un texto de presentacion de luna</p>
-            <img className="rounded-lg" src="/img/luna.jpg" ></img>
+            <img className="rounded-lg box-border h-20 w-20" src="/img/luna.jpg" ></img>
           </section>
           <section id="nacho" className="text-center order-4 p-4">
             Nacho
