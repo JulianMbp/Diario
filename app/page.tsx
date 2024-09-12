@@ -27,7 +27,7 @@ export default function Home() {
 
           <section id="luna" className="text-center order-1 p-4 gap-20 grid grid-flow-col grid-cols-2 w-25 h-25">
             <div className="text-left order-2">
-              <h1 className="font-bold text-4xl mb-4">Luna</h1>
+              <h1 className="font-bold text-4xl mb-4">Luna 🌙</h1>
               <p className="font-thin">¡Hola! Soy Luna, una perrita mestiza de color blanco con orejas 
                 paradas y un corazón lleno de amor. El 16 de abril de
                 este año cumplí 16 años, ¡una edad llena de sabiduría
